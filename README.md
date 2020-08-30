@@ -1,0 +1,2 @@
+# Smart_Doorbell_Android_Things
+Smart Door bell is an Android things Project built on top on Android Pico IMX. Has mainly two modules Mobile and Things. The things app is for PICO IMX, which asks user to press the bell icon visible on screen and takes the Image of the person pressing the bell. This image is sent to firebase and using the Mobile app installed on the smartphone these images can be viewed.
